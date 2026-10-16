@@ -1,0 +1,3 @@
+# Keep Kafka's local messages out of Git.
+data/
+.env
